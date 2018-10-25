@@ -4,7 +4,7 @@ Listing 4.4
 25-10-2018
 WITT
 
-Name of projekt is: Hex to digits
+Name of projekt is: Hexdigit to decimals
 
 No prerequestes other than an IDE (ie. Intellij)
 
